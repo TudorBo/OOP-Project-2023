@@ -1,4 +1,4 @@
-# OOP Project 2022-2023
+# OOP Project 2023
 
 Made by Bolohan Stefan-Tudor
 
