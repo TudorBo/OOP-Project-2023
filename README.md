@@ -9,7 +9,6 @@ This project was made to introduce in the Object Oriented Programming concepts.
 To run this project make sure you have C/C++ compiler installed on your computer and have all the files installed in the same folder.
 
 ### Coding Style
-* namespaces    -flatcase
 * classes       -PascalCase
 * functions     -camelCase
 * variables     -snake_case
