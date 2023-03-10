@@ -1,4 +1,4 @@
-# OOP Project 2023
+# Wednesday Budget Calculator
 
 Made by Bolohan Stefan-Tudor
 
